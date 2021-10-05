@@ -26,6 +26,7 @@ setup(
     license='MIT',
     packages=['fake_news'],
     install_requires=[
-        'pypandoc>=1.6'
+        'pypandoc>=1.6',
+        'flask'
     ],
 )
